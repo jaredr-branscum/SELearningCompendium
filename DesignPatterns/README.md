@@ -1,2 +1,2 @@
 # References
-https://refactoring.guru/design-patterns/typescript
+https://refactoring.guru/design-patterns/
