@@ -11,7 +11,7 @@
     * Document known unknowns, ask for clarification, document discussion outcomes, estimate effort, share with the team
     * Share concerns & acknowledge knowledge gaps early
     * Make objectives clear, share them in advance before making decisions
-    * Regularly share your wins
+    * Regularly share team wins
 * Automation
     * Dedicate capacity to automation efforts, prioritize work efficiency
     * Simplify meeting documentation, scheduling meetings, and setting the agenda
