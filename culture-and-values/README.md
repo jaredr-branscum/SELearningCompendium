@@ -10,7 +10,7 @@
 * Open Communication & Transparency
     * Document known unknowns, ask for clarification, document discussion outcomes, estimate effort, share with the team
     * Share concerns & acknowledge knowledge gaps early
-    * Make objectives clear, share them in advance before making decisions
+    * Make objectives clear, share them in advance before setting up meetings
     * Regularly share team wins
 * Automation
     * Dedicate capacity to automation efforts, prioritize work efficiency
