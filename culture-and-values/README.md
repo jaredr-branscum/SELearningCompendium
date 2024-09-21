@@ -16,3 +16,7 @@
     * Dedicate capacity to automation efforts, prioritize work efficiency
     * Simplify meeting documentation, scheduling meetings, and setting the agenda
     * Track metrics automatically, minimize overhead for measuring success
+ 
+  # Learnings From External Sources
+  * Building Engineering Teams
+    * Structure teams according to the organization's desired architecture for effective ownership of system microservices or micro-frontends
