@@ -17,3 +17,7 @@ Listing my personal experience with various AI tools for creating or troubleshoo
 ## [Deepseek](https://chat.deepseek.com/)
 
 **Overall Rating:** 3/5
+
+## [Perplexity](https://www.perplexity.ai/)
+
+**Overall Rating:** 4/5
